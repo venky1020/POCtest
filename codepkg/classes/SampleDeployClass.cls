@@ -15,7 +15,7 @@ public class SampleDeployClass {
     public static String getPhone() {
         return 'SamplePhone#';
     }
-    
+    //test
     public static void helloMethod() {
         System.debug('Hello World');
     }
